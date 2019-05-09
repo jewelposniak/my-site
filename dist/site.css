@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+  }
+  .moveable {
+    color: white;
+    font-family: 'Gugi', cursive;
+    text-align: center;
+    margin: 20%;
+  }
